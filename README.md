@@ -1,0 +1,1 @@
+A simple app that checks the strength of a password and gives feedback on whether it's weak, strong or too long based on the input provided by the user. The app provides a visual color indicator and a textual message based on password strength analysis. This app improves user experience by making the process of choosing a secure password clearer, safer, and more user-friendly. 
